@@ -28,7 +28,7 @@ body {
   background-color: #e74f1c;
   height: 100%;
   padding: 0px;
-  background-image: url(''); /* INSERT BACKGROUND IMAGE */
+  background-image: none; /* INSERT BACKGROUND IMAGE */
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: contain; /* vs. "cover" + no-repeat */
